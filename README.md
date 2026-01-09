@@ -99,6 +99,7 @@ The Doctor Appointment System mitigates the inadequacies of conventional appoint
 
 
 #Output
+
 #Home Page:
 <img width="1887" height="800" alt="Image" src="https://github.com/user-attachments/assets/e6603d1a-3076-4b48-af31-6f67abe9853e" />
 
