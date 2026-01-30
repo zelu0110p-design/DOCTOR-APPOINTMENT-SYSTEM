@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Readyprojectcode/Doctor-Appointment-System-Django/.idea/Doctor-Appointment-System-Django.iml" filepath="$PROJECT_DIR$/../../Readyprojectcode/Doctor-Appointment-System-Django/.idea/Doctor-Appointment-System-Django.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/docappsystem.iml" filepath="$PROJECT_DIR$/.idea/docappsystem.iml" />
+    </modules>
+  </component>
+</project>
